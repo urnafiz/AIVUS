@@ -1,8 +1,9 @@
 # AIVUS
 
-This is State University of Bangladesh project
-
 AIVUS is full form of artificial intelligence and virtual university system
+
+
+This is State University of Bangladesh project
 
 Semester: Spring 2020
 
