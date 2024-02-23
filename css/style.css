@@ -1,0 +1,55 @@
+#atagofh {
+  text-decoration: none !important;
+  color: #212529;
+}
+
+#navlp a {
+  text-decoration: none !important;
+}
+
+#backtoblog a {
+  text-decoration: none !important;
+}
+
+@media only screen and (max-width: 640px) {
+  .card-body {
+      padding-left: 1rem !important;
+      padding-right: 1rem !important;
+  }
+}
+
+.tabcontainer {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  height: auto;
+  text-align: center;
+  margin-top: 10px;
+
+}
+
+@media (min-width:576px) {
+  .tabcontainer {
+      max-width: 540px;
+      font-size: 4px;
+  }
+}
+
+@media (min-width:768px) {
+  .tabcontainer {
+      max-width: 720px
+  }
+}
+
+@media (min-width:992px) {
+  .tabcontainer {
+      max-width: 960px
+  }
+}
+
+@media (min-width:1200px) {
+  .tabcontainer {
+      max-width: 1140px
+  }
+}
