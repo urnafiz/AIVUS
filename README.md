@@ -13,7 +13,7 @@ Course Title: Project Work I
 
 Course Instructor: Amina Rahman
 
-Project Name: AJAX Login
+Project Name: AJAX Login System
 
 Login
 -----------
