@@ -3,7 +3,7 @@
 AIVUS is full form of artificial intelligence and virtual university system
 
 
-This is State University of Bangladesh project
+It is a project of State University of Bangladesh
 
 Semester: Spring 2020
 
