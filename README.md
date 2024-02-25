@@ -1,7 +1,4 @@
-# AIVUS
-
-AIVUS is full form of artificial intelligence and virtual university system
-
+# AJAX Login System
 
 It is a project of State University of Bangladesh
 
